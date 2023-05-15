@@ -60,3 +60,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+ !python /content/privateGPT/ingest.py /content/privateGPT/source_documents
